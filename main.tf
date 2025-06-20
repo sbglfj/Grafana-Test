@@ -10,6 +10,6 @@ terraform {
 provider "grafana" {
    alias = "cloud"
 
-   url   = "sbglfj.grafana.net"
+   url   = "https://sbglfj.grafana.net"
    auth  = "glsa_mNP6lEHszsvtIVFJzSAqlxXhQWzFh3ig_715c2eaa"
 }
